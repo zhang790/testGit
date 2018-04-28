@@ -1,3 +1,5 @@
 this is new file
 
-study stash 
+study stash
+
+为commit但是第二次修改 
