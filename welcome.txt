@@ -10,4 +10,5 @@ new branch add
 
 master modify one
 new branch add conflict one
->>>>>>> feature1
+
+modifyBug02
