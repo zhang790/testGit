@@ -11,4 +11,10 @@ new branch add
 master modify one
 new branch add conflict one
 
+
 modifyBug02
+
+fix bug 01
+
+本地修改`
+
