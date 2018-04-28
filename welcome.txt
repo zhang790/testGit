@@ -5,4 +5,4 @@ git is a diffcult software
 
 I need many times use it
 
-new branch add
+new branch add conflict one
