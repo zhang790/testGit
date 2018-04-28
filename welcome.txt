@@ -5,6 +5,9 @@ git is a diffcult software
 
 I need many times use it
 
+
 new branch add
 
 master modify one
+new branch add conflict one
+>>>>>>> feature1
