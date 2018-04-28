@@ -14,7 +14,10 @@ new branch add conflict one
 
 modifyBug02
 
+
 fix bug 01
 
 本地修改`
+
+远程仓库已经被修改的部分
 
